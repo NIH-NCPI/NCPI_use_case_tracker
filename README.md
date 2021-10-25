@@ -8,7 +8,7 @@ see also: [NCPI 2021 Fall presentation: The Journey of a NCPI Use Case: From a s
 * Title, platforms involved
 * Scientific lead/s and platform leads
 * One pager description: what research question to be answered, plan of data use and analysis
-* Technical plan to specify the NCPI interoperability use case
+* Technical plan to specify the NCPI interoperability use case, datasets involved, platforms involved
 * Funding resources info
 #### 2. Implementation phase : fully implement the technical plan specified in one-pager and provide updates
 

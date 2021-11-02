@@ -14,13 +14,6 @@ We have been using this pipeline to analyze Undiagnosed Disease Network (UDN) pa
 
 **Dataset:** [Clinical and Genetic Evaluation of Individuals with Undiagnosed Disorders Through the Undiagnosed Diseases Network (UDN](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs001232.v3.p2) and [insert Kids First datasets once determined, listed here: https://commonfund.nih.gov/kidsfirst/x01projects] 
 
-| **Search Portal Start**  |  **Result** |
-|---|---|
-| **NCBI SRA Results** | <img src="https://github.com/NIH-NCPI/NCPI_use_case_tracker/blob/main/assets/SRA_orofacial_cleft.png" width=300 align=right> |
-| **click through dbGaP results** | <img src="https://github.com/NIH-NCPI/NCPI_use_case_tracker/blob/main/assets/dbGaP%20Orofacial%20Cleft%20route%20from%20SRA.png" width=300 align=right> |
-| **dbGaP search results** | <img src="https://github.com/NIH-NCPI/NCPI_use_case_tracker/blob/main/assets/dbGaPAdvancedSearchOrofacialCleft.png" width=300 align=right> |
-| **and Kids First results** | <img src="https://github.com/NIH-NCPI/NCPI_use_case_tracker/blob/main/assets/KidsFirstSearchResults.png" width=300 align=right> |
-
 **Goals:**
 
 1. **Structuring phenotype data in Seven Bridges CAVATICA**.  This requires:

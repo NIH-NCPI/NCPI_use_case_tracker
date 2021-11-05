@@ -8,18 +8,6 @@
 
 **Researcher contact:** Anne Deslattes Mays
 
-
-
-**Dataset:** Determined from each search:
-
-| **Search Portal Start**  |  **Result** |
-|---|---|
-| **NCBI SRA Results** | <img src="https://github.com/NIH-NCPI/NCPI_use_case_tracker/blob/main/assets/SRA_orofacial_cleft.png" width=300 align=right> |
-| **click through dbGaP results** | <img src="https://github.com/NIH-NCPI/NCPI_use_case_tracker/blob/main/assets/dbGaP%20Orofacial%20Cleft%20route%20from%20SRA.png" width=300 align=right> |
-| **dbGaP search results** | <img src="https://github.com/NIH-NCPI/NCPI_use_case_tracker/blob/main/assets/dbGaPAdvancedSearchOrofacialCleft.png" width=300 align=right> |
-| **and Kids First results** | <img src="https://github.com/NIH-NCPI/NCPI_use_case_tracker/blob/main/assets/KidsFirstSearchResults.png" width=300 align=right> |
-
-
 **What should be returned?:** Search should return **consistent results regardless** of search origin.   Search results should be identical regardless of the search point of entry.
 
 **Which repositor(ies):**  Kids First Data Resource, NCBI SRA, NCBI dbGaP
@@ -32,7 +20,17 @@
 
 **NCPI use case link:** [SEARCH UC1](https://github.com/NIH-NCPI/NCPI_use_case_tracker/issues/19)
 
-**Status:**  *IDEATION*
+**Status:**  *Proposal Phase*
+
+**Dataset:** Determined from each search:
+
+| **Search Portal Start**  |  **Result** |
+|---|---|
+| **NCBI SRA Results** | <img src="https://github.com/NIH-NCPI/NCPI_use_case_tracker/blob/main/assets/SRA_orofacial_cleft.png" width=300 align=right> |
+| **click through dbGaP results** | <img src="https://github.com/NIH-NCPI/NCPI_use_case_tracker/blob/main/assets/dbGaP%20Orofacial%20Cleft%20route%20from%20SRA.png" width=300 align=right> |
+| **dbGaP search results** | <img src="https://github.com/NIH-NCPI/NCPI_use_case_tracker/blob/main/assets/dbGaPAdvancedSearchOrofacialCleft.png" width=300 align=right> |
+| **and Kids First results** | <img src="https://github.com/NIH-NCPI/NCPI_use_case_tracker/blob/main/assets/KidsFirstSearchResults.png" width=300 align=right> |
+
 
 **Presentation:** [here](https://github.com/NIH-NCPI/NCPI_use_case_tracker/blob/main/assets/NICHD-ODSSandNCBIUniformSearchUseCase.pdf)
 

@@ -1,4 +1,4 @@
-## Uniform search of sample and sequence read information across NCBI and Kids First Repositories
+## Search UC1. Uniform search of sample and sequence read information across NCBI and Kids First Repositories
 
 **Title:** Uniform search of sample and sequence read information across NCBI and Kids First Repositories
 

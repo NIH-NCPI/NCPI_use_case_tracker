@@ -1,4 +1,4 @@
-## UC14. Using the NCI Cancer Research Data Commons and NHLBI BioData Catalyst to better understand precision medicine
+## UC15. Using the NCI Cancer Research Data Commons and NHLBI BioData Catalyst to better understand precision medicine
 
 **Title:** Using the NCI Cancer Research Data Commons and NHLBI BioData Catalyst to better understand precision medicine
 

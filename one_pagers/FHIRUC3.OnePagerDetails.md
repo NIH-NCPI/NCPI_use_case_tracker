@@ -1,6 +1,6 @@
 ## FHIR UC3 One Pager Details
 
-This use case is a child use case of parent use case [UC10. Interoperability NLM/NCBI dbGaP & Kids First)](https://github.com/NIH-NCPI/NCPI_use_case_tracker/edit/main/one_pagers/UC10_InteroperabilityUDN.md)
+This use case is a child use case of parent use case [UC10. Interoperability NLM/NCBI dbGaP & Kids First)](https://github.com/NIH-NCPI/NCPI_use_case_tracker/blob/main/one_pagers/UC10_InteroperabilityUDN.md)
 
 **Title:** Pulling Phenotype data from more two FHIR servers
 

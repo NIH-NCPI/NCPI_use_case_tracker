@@ -44,10 +44,9 @@ We have been using this pipeline to analyze Undiagnosed Disease Network (UDN) pa
 
 **Which workflows/tools/apps/code:** PheRS
 
-**NCPI use case link(s):** [FHIR UC3](https://github.com/NIH-NCPI/NCPI_use_case_tracker/issues/18)
-
-**Status:**  *Proposal Stage*
-
 **Presentation:** [KidsFirst & Undiagnosed Disease Network (UDN) Data via dbGaP/SRA](https://github.com/NIH-NCPI/NCPI_use_case_tracker/blob/main/assets/UDN%20Interop.pdf)
 
-
+Related Use cases:
+| Use Case Number | Topic Covered | NIH Repositories Involved | Details Link |
+| --- | -- | --- | -- |
+| [FHIR UC3](https://github.com/NIH-NCPI/NCPI_use_case_tracker/issues/18) | Pulling Phenotype data from more two FHIR servers | Kids First & NLM/NCBI dbGaP | [FHIR Use Case Details]() |

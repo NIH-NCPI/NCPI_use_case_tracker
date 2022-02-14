@@ -12,7 +12,7 @@ Gliomas are characterized by significant germline and somatic genetic heterogene
 
 **Scientific lead:** Nara Sobreira, MD, PhD (PI)
 
-**Platform lead:** Renan Martin, PhD (post-doc)
+**Platform lead:** Jack DiGiovana (SB), Renan Martin, PhD (post-doc)
 
 **Interoperability/technical plan:** 
 

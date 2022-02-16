@@ -16,7 +16,16 @@ Gliomas are characterized by significant germline and somatic genetic heterogene
 
 **Interoperability/technical plan:** 
 
-We will access tumor (and corresponding non-tumor tissue) WGS data from 829 patients from the Pediatric Brain Tumor Atlas and investigate these data for variants in HIF-1 related genes including our preliminary HIF-1 related candidate genes. Data will be accessed through the Gabriella Miller Kids First Pediatric Research Program Data Resource Center and CAVATICA. We will also investigate variants in HIF-1 related genes in tumor and (and corresponding non-tumor tissue) WGS data from 1,348 patients with gliomas (sequenced as part of 8 projects - FM-AD, GENIE-DFCI, GENIE-GRCC, GENIE-JHU, GENIE-MDA, GENIE-MSK, GENIE-VICC, and TCGA-LGG) and from 878 patients with chondrosarcoma (sequenced as part of 8 projects - GENIE-DFCI, GENIE-GRCC, GENIE-JHU, GENIE-MDA, GENIE-MSK, GENIE-UHN, GENIE-VICC, and TARGET-OS) and available through the National Cancer Institute’s Cancer Research Data Commons (NCI CRDC).
+This project will combine data from Kids First, CRDC, and AnVIL. All analysis will be completed in CAVATICA
+**Kids First**
+We will access tumor (and corresponding non-tumor tissue) WGS data from 829 patients from the Pediatric Brain Tumor Atlas and investigate these data for variants in HIF-1 related genes including our preliminary HIF-1 related candidate genes. Data will be accessed through the Gabriella Miller Kids First Pediatric Research Program Data Resource Center *Portal* and sent to *CAVATICA* via the push integration in production. 
+
+**CRDC**
+We will also investigate variants in HIF-1 related genes in tumor and (and corresponding non-tumor tissue) WGS data from 1,348 patients with gliomas (sequenced as part of 8 projects - FM-AD, GENIE-DFCI, GENIE-GRCC, GENIE-JHU, GENIE-MDA, GENIE-MSK, GENIE-VICC, and TCGA-LGG) and from 878 patients with chondrosarcoma (sequenced as part of 8 projects - GENIE-DFCI, GENIE-GRCC, GENIE-JHU, GENIE-MDA, GENIE-MSK, GENIE-UHN, GENIE-VICC, and TARGET-OS) and available through the National Cancer Institute’s Cancer Research Data Commons (NCI CRDC). We will determine the most effecient paths to import cohorts. For example, TCGA and TARGET data will be identified within the Data Browser (CAVATICA) and copied to a CAVATICA workspace. We will need to identify an appropriate portal and manifest format for GENIE data.
+
+**AnVIL**
+We will also analyze the CMG-BaylorHopkins data (AnVIL) by using the current PFB export (Gen3 AnVIL _Portal_) and notebook based import within CAVATICA. This approach will change as RAS evolves and Portal and CAVATICA integrations are further developed; both these technical developments are already in progress and independant of this effort). 
+
 
 With the analysis of these datasets, we expect to identify somatic candidate causative variants in HIF-1 related genes in a subset of isolated gliomas and chondrosarcoma.
 

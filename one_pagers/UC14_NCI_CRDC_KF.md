@@ -20,6 +20,8 @@ We will access tumor (and corresponding non-tumor tissue) WGS data from 829 pati
 
 With the analysis of these datasets, we expect to identify somatic candidate causative variants in HIF-1 related genes in a subset of isolated gliomas and chondrosarcoma.
 
-Workspace will be on CAVATICA
+1. Workspace will be on CAVATICA
+2. Data access from AnVIL, Kids First, and CRDC
+3. 
 
 **Funding resource(s):**  Available cloud pilot credits, additional funding TBD

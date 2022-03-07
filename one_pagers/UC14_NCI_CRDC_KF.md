@@ -21,7 +21,7 @@ We will access tumor (and corresponding non-tumor tissue) WGS data from 829 pati
 With the analysis of these datasets, we expect to identify somatic candidate causative variants in HIF-1 related genes in a subset of isolated gliomas and chondrosarcoma.
 
 1. Workspace will be on CAVATICA
-2. Data access from AnVIL ([BH CMG](https://anvilproject.org/data/studies/phs000711)), Kids First ([Pediatric Brain Tumor Atlas: PNOC](https://www.notion.so/Pediatric-Brain-Tumor-Atlas-PNOC-1dc066fa13f44e9e98c6487e0793149b), [Kids First: Enchondromatoses](https://www.notion.so/Kids-First-Enchondromatoses-2099dc92df954a589a16cbd83793dc68)), and CRDC ( [Pediatric Brain Tumor Atlas: CBTTC](https://www.notion.so/Pediatric-Brain-Tumor-Atlas-CBTTC-6c416196926e4d4c9705060c66bb1c25))
+2. Data access from AnVIL ([BH CMG](https://anvilproject.org/data/studies/phs000711)), Kids First ([Pediatric Brain Tumor Atlas: PNOC](https://www.notion.so/Pediatric-Brain-Tumor-Atlas-PNOC-1dc066fa13f44e9e98c6487e0793149b), [Kids First: Enchondromatoses](https://www.notion.so/Kids-First-Enchondromatoses-2099dc92df954a589a16cbd83793dc68)), and CRDC ( [Pediatric Brain Tumor Atlas: CBTTC/CBTN)](https://www.notion.so/Pediatric-Brain-Tumor-Atlas-CBTTC-6c416196926e4d4c9705060c66bb1c25))
 
 
 **Funding resource(s):**  Available cloud pilot credits, additional funding TBD
